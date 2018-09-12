@@ -159,6 +159,8 @@ h3, h2 {
   width: 274px;
   margin: 20px 0 25px;
   overflow: auto;
+  border: #666;
+  border-style: solid
 }
 
 /* .work:nth-child(even) {
@@ -168,7 +170,7 @@ h3, h2 {
 .work img {
   width: 100%;
   border: 0 none;
-  opacity: 0.8;
+  /* opacity: 0.8; */
 }
 
 .work h3 {
