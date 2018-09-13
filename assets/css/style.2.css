@@ -35,7 +35,7 @@ h2,
 h3 {
   font-family: Georgia, Times, "Times New Roman", serif;
   font-weight: 700;
-  color: #94C5CC;
+  color: #4aaaa5;
 }
 
 h1 {
@@ -58,8 +58,8 @@ h3 {
   width: 100%;
   margin: 0 0 30px;
   overflow: auto;
-  color: #F8F8F8;
-  background: #F8F8F8;
+  color: #fff;
+  background: #fff;
   border-bottom: 2px solid #ccc;
   padding: 0px;
 }
@@ -72,10 +72,10 @@ h3 {
   font-size: 30px;
   font-weight: 700;
   line-height: 90px;
-  color: #F8F8F8;
+  color: #fff;
   text-align: center;
   text-decoration: none;
-  background: #94C5CC;
+  background: #4aaaa5;
   padding: 5px;
 }
 
@@ -108,11 +108,11 @@ footer {
   padding: 30px 0;
   clear: both;
   font-size: 12px;
-  color: #F8F8F8;
+  color: #fff;
   color: #ccc;
   text-align: center;
-  background: #A1A6B4;
-  border-top: 8px solid #94C5CC;
+  background: #666;
+  border-top: 8px solid #4aaaa5;
   height: 50px;
 }
 
@@ -136,7 +136,7 @@ h3, h2 {
   max-width: 960px;
   padding: 30px;
   margin: 0 0 40px;
-  background: #F8F8F8;
+  background: #fff;
   border: 1px solid #ddd;
 }
 
@@ -159,7 +159,7 @@ h3, h2 {
   width: 274px;
   margin: 20px 0 25px;
   overflow: auto;
-  border: #A1A6B4;
+  border: #666;
   border-style: solid
 }
 
@@ -181,9 +181,9 @@ h3, h2 {
   margin-bottom: 0;
   font-weight: 300;
   line-height: 30px;
-  color: #F8F8F8;
+  color: #fff;
   text-align: center;
-  background: #94C5CC;
+  background: #4aaaa5;
   border-bottom: 0;
 }
 
@@ -230,9 +230,9 @@ textarea {
 input[type=submit] {
   padding: 10px 30px;
   font-size: 18px;
-  color: #F8F8F8;
+  color: #fff;
   cursor: pointer;
-  background: #94C5CC;
+  background: #4aaaa5;
   border: 0 none;
 }
 
